@@ -1,0 +1,2 @@
+git config --global user.name Izidoro321
+git config --global user.email izidoronarcizo2200@gmail.com
